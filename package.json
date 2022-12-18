@@ -1,0 +1,22 @@
+{
+  "name": "starter-frontend",
+  "version": "1.0.0",
+  "description": "Projet squelette pour démarrer confortablement un projet frontend",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarkillerGDN/starter-pack-frontend.git"
+  },
+  "keywords": [
+    "Start",
+    "frontend",
+    "starter-frontend",
+    "liveserver"
+  ],
+  "author": "Geoffrey D",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
